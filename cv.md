@@ -14,7 +14,7 @@ Gdańsk, Poland<br>
 
 ### About
 
-"I am an enthusiastic learner who has been actively engaged in web development since 2019, dedicating the last four years to honing my skills in various aspects of web development. Recently, I completed courses in JavaScript, Angular, and Node.js, further solidifying my knowledge and expertise in this field. My passion for web development led me to successfully complete an internship program for a ServiceNow Developer position at EPAM Systems in Gdansk. I am now eager to embark on a career in Front-End Development.<br>
+I am an enthusiastic learner who has been actively engaged in web development since 2019, dedicating the last four years to honing my skills in various aspects of web development. Recently, I completed courses in JavaScript, Angular, and Node.js, further solidifying my knowledge and expertise in this field. My passion for web development led me to successfully complete an internship program for a ServiceNow Developer position at EPAM Systems in Gdansk. I am now eager to embark on a career in Front-End Development.<br>
 I have a background in law, which has honed my analytical and problem-solving skills. My focus is now on pursuing a fulfilling career in web development, and I look forward to contributing to innovative projects.
 
 ### Technical Skills
@@ -46,7 +46,7 @@ Jul 2022 - Sep 2022 · 3 mos<br>
 
 ### Education
 
-M. S. Civil law - Novosibirsk State University, Novosibirsk, Russia
+M.S.Civil law - Novosibirsk State University, Novosibirsk, Russia
 
 ### Languages
 
