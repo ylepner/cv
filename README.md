@@ -14,8 +14,9 @@ Gdańsk, Poland<br>
 
 ### About
 
-I am an enthusiastic learner who has been actively engaged in web development since 2019, dedicating the last four years to honing my skills in various aspects of web development. Recently, I completed courses in JavaScript, Angular, and Node.js, further solidifying my knowledge and expertise in this field. My passion for web development led me to successfully complete an internship program for a ServiceNow Developer position at EPAM Systems in Gdansk. I am now eager to embark on a career in Front-End Development.<br>
-I have a background in law, which has honed my analytical and problem-solving skills. My focus is now on pursuing a fulfilling career in web development, and I look forward to contributing to innovative projects.
+An enthusiastic learner who has been actively engaged in web development since 2019. Over the past four years, I have actively immersed myself in the world of web development, cultivating a strong foundation in HTML5, CSS3, JavaScript, and TypeScript. My educational journey includes completing courses in JavaScript, Angular, and Node.js, enhancing my proficiency in these essential technologies. My commitment to continuous learning and hands-on experience led me to a successful internship as a ServiceNow Developer at EPAM Systems in Gdansk, where I studied ServiceNow development and administration. I am now eager to embark on a career in Front-End Development.<br>
+I have a background in law, which has honed my analytical and problem-solving skills.<br>
+My focus is now on pursuing a fulfilling career in web development, and I look forward to contributing to innovative projects.
 
 ### Technical Skills
 
@@ -32,13 +33,13 @@ I have a background in law, which has honed my analytical and problem-solving sk
 
     + NodeJS 2023 Q2 course, student<br>
     Jun 2023 - Sep 2023 · 4 mos<br>
-    [certificate](https://app.rs.school/certificate/xeff7urb)
+    [certificate](https://app.rs.school/certificate/mdyuqu8m)
     + Angular 2022Q1 course, student<br>
     Mar 2022 - May 2022 · 3 mos<br>
-    [certificate](https://app.rs.school/certificate/xeff7urb)
+    [certificate](https://app.rs.school/certificate/xmk7i2iy)
     + JavaScript/Front-end 2021Q3 course, student<br>
     Sep 2021 - Mar 2022 · 7 mos<br>
-    [certificate](https://app.rs.school/certificate/xmk7i2iy)
+    [certificate](https://app.rs.school/certificate/xeff7urb)
 
 * **EPAM systems**, Gdańsk, trainee<br>
 Jul 2022 - Sep 2022 · 3 mos<br>
