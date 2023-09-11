@@ -14,8 +14,8 @@ Gdańsk, Poland<br>
 
 ### About
 
-An enthusiastic learner who has been actively engaged in web development since 2019.<br>
-Over the past four years, I have actively immersed myself in the world of web development, cultivating a strong foundation in HTML5, CSS3, JavaScript, and TypeScript.<br>
+An enthusiastic learner who has been actively engaged in web development since 2020.<br>
+Over the past three years, I have actively immersed myself in the world of web development, cultivating a strong foundation in HTML5, CSS3, JavaScript, and TypeScript.<br>
 My educational journey includes completing courses in JavaScript, Angular, and Node.js, enhancing my proficiency in these essential technologies.<br>
 My commitment to continuous learning and hands-on experience led me to a successful internship as a ServiceNow Developer at EPAM Systems in Gdansk, where I studied ServiceNow development and administration.<br>
 I have a background in law, which has honed my analytical and problem-solving skills.<br>
@@ -25,10 +25,13 @@ My focus is now on pursuing a fulfilling career in web development, and I look f
 
 * HTML, CSS, SASS, Tailwind,
 * Figma,
-* JavaScript, TypeScript
+* JavaScript, TypeScript,
+* Webpack,
+* Prettier,
 * Angular, RxJS, NgRx, Angular Material,
-* NodeJS, NestJS,
-* Unit Testing: Jest, Mocha, Chai
+* Node.js, NestJS,
+* Docker,
+* Unit Testing: Jest, Mocha, Chai,
 * Git, GitHub
 
 ### Experience
