@@ -1,6 +1,6 @@
 # JULIA LEPNER
 
-![](/IMG_9971.jpg)
+<!-- ![](/IMG_9971.jpg) -->
 
 ## Frontend Developer
 
@@ -36,15 +36,15 @@ My focus is now on pursuing a fulfilling career in web development, and I look f
 
 ### Experience
 
-* [The Rolling Scopes School](https://rs.school/) Code Academy
+* [The Rolling Scopes School](https://rs.school/), Gdańsk, student
 
-    + NodeJS 2023 Q2 course, student<br>
+    + NodeJS 2023Q2 course<br>
     Jun 2023 - Sep 2023 · 4 mos<br>
     [certificate](https://app.rs.school/certificate/mdyuqu8m)
-    + Angular 2022Q1 course, student<br>
+    + Angular 2022Q1 course<br>
     Mar 2022 - May 2022 · 3 mos<br>
     [certificate](https://app.rs.school/certificate/xmk7i2iy)
-    + JavaScript/Front-end 2021Q3 course, student<br>
+    + JavaScript/Front-end 2021Q3 course<br>
     Sep 2021 - Mar 2022 · 7 mos<br>
     [certificate](https://app.rs.school/certificate/xeff7urb)
 
