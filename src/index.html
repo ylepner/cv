@@ -7,63 +7,75 @@
 
   <link rel="icon" type="image/png" sizes="32x32" href="./assets/favicon-32x32.png">
   <link rel="stylesheet" href="index.css">
-
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href='https://fonts.googleapis.com/css?family=Space Grotesk' rel='stylesheet'>
   <title>Portfolio Julia Lepner</title>
 </head>
 
 <body>
   <header class="header">
-    <div class="wrapper wrapper-header">
+    <div class="wrapper wrapper-header flex">
       <div class="title">ylepner</div>
-      <ul class="header-links">
-        <li> <a href="https://github.com/ylepner" target="blank"><img class="github-icon" src="./assets/icon-github.svg"
-              alt="Github logo"></a>
-        </li>
-        <li>
-          <a href="https://www.linkedin.com/in/julia-lepner/" target="blank"><img class="linkedin-icon"
-              src="./assets/icon-linkedin.svg" alt="Github logo"></a>
-        </li>
-        <li class="year">2023</li>
-      </ul>
+      <div class="list-wrapper flex">
+        <ul class="header-links list flex">
+          <li> <a href="https://github.com/ylepner" target="blank"><img class="github-icon"
+                src="./assets/icon-github.svg" alt="Github logo"></a>
+          </li>
+          <li>
+            <a href="https://www.linkedin.com/in/julia-lepner/" target="blank"><img class="linkedin-icon"
+                src="./assets/icon-linkedin.svg" alt="Github logo"></a>
+          </li>
+          <!-- <li class="year">2023</li> -->
+        </ul>
+      </div>
     </div>
     <main>
       <section class="promo">
         <div class="wrapper wrapper-promo">
           <div class="promo-content">
-            <div class="promo-h1">Hi there! I'm Julia Lepner</div>
-            <div class="promo-p">I'm a passionate Web Developer with three years of studying experience. Based in
-              Gdańsk, Poland. </div>
+            <h1 class="promo-h1 promo-title h1">Hi there! <br> I'm <span class="name">Julia Lepner</span> </h1>
+            <p class="promo-p">I'm a passionate Web Developer with three years of studying experience. <br> Based in
+              Gdańsk, Poland. </p>
+          </div>
+          <div class="photo">
           </div>
         </div>
       </section>
       <section class="skills">
         <div class="wrapper wrapper-skills">
-          <div class="skills-title">My skills</div>
-          <li>HTML</li>
-          <li>CSS</li>
-          <li>SASS</li>
-          <li>Tailwind</li>
-          <li>Figma</li>
-          <li>JavaScript</li>
-          <li>TypeScript</li>
-          <li>Webpack</li>
-          <li>Prettier</li>
-          <li>Angular</li>
-          <li>RxJS</li>
-          <li>NgRx</li>
-          <li>Angular Material</li>
-          <li>Node.js</li>
-          <li>NestJS</li>
-          <li>Jest</li>
-          <li>Mocha</li>
-          <li>Chai</li>
-          <li>Git</li>
-          <li>GitHub</li>
+          <!-- <div class="skills-title">My skills</div> -->
+          <ul class="list skills-list">
+            <li class="f3">HTML</li>
+            <li class="f3">CSS</li>
+            <li class="f3">SASS</li>
+            <li class="f3">BEM architecture</li>
+            <li class="f3">Tailwind</li>
+            <li class="f3">Figma</li>
+            <li class="f3">Prettier</li>
+            <li class="f3">JavaScript</li>
+            <li class="f3">TypeScript</li>
+            <li class="f3">Webpack</li>
+            <li class="f3">Angular</li>
+            <li class="f3">RxJS</li>
+            <li class="f3">NgRx</li>
+            <li class="f3">Node.js</li>
+            <li class="f3">Angular Material</li>
+            <li class="f3">NestJS</li>
+            <li class="f3">Chai</li>
+            <li class="f3">Jest</li>
+            <li class="f3">Mocha</li>
+            <li class="f3">Git</li>
+            <li class="f3">GitHub</li>
+            <li class="f3">Docker</li>
+          </ul>
         </div>
       </section>
       <section class="projects">
         <div class="wrapper wrapper-projects">
-          <ul class="projects-list">
+          <ul class="projects-list list">
             <li class="projects-list-link"><a href="https://ylepner.github.io/art-quiz/" target="blank"></a>
               <div class="link-title">Art Quiz</div>
               <div class="link-decription">The art history game. Game includes two types of quizzes: Artists and
@@ -90,7 +102,7 @@
       </section>
       <footer class="footer">
         <div class="wrapper footer-wrapper">
-          <ul class="contacts">
+          <ul class="contacts list">
             <li class="contacts-link"><a href="https://github.com/ylepner" target="blank">Github</a></li>
             <li class="contacts-link">Email: ylepner@gmail.com</a></li>
             <li class="contacts-link"><a href="https://www.linkedin.com/in/julia-lepner/" target="blank">Linkedin</a>
