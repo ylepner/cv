@@ -1,4 +1,128 @@
+/* base */
+
+:root {
+  --space-grotesk: "Space Grotesk", sans-serif;
+  --font-l: "88px";
+  --font-m: "48px";
+  --font-s: "24px";
+}
+
+html {
+  font-size: 10px;
+}
+
 body {
+  font-size: 1.6rem;
+  position: relative;
+  margin: 0;
   background-color: black;
   color: white;
+  font-family: var(--space-grotesk);
+  width: 1440px;
+}
+
+h1 {
+  font-size: 88px;
+  font-weight: bold;
+}
+
+.h2 {
+  font-size: 48px;
+}
+
+.h3 {
+  font-size: 24px;
+}
+
+.f1 {
+  font-size: 88px;
+}
+
+.f2 {
+  font-size: 48px;
+}
+
+.f3 {
+  font-size: 24px;
+}
+
+/* common */
+
+.flex {
+  display: flex;
+}
+
+/* layout */
+
+.wrapper {
+  max-width: 1275px;
+  margin: auto;
+}
+
+.list {
+  list-style: none;
+}
+
+/* header */
+
+.header-links {
+  width: 100%;
+  justify-content: space-around;
+}
+
+.list-wrapper {
+  width: 20%;
+  justify-content: right;
+}
+
+.wrapper-header {
+  justify-content: space-between;
+  padding-top: 40px;
+  padding-bottom: 130px;
+}
+
+.title {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+/* photo */
+
+.photo {
+  width: 445px;
+  height: 720px;
+  background-color: #7fffd480;
+  position: absolute;
+  top: 0;
+  right: 165px;
+}
+
+/* promo */
+
+.promo {
+  padding-bottom: 220px;
+}
+
+.promo-title {
+  position: relative;
+  z-index: 1;
+}
+
+.promo-p {
+  width: 50%;
+}
+
+/* skills */
+
+.wrapper-skills {
+  border-top: 1px solid;
+}
+
+.skills-list {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.highlight {
+  color:aqua;
 }
