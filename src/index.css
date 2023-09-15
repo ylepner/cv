@@ -169,6 +169,15 @@ h1 {
   padding-bottom: 70px;
 }
 
+.link-title {
+  text-align: center;
+  padding-top: 20px;
+}
+
+/* .link-tech-stack {
+  text-transform: uppercase;
+} */
+
 /* footer */
 
 .contacts {
