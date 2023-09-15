@@ -168,3 +168,24 @@ h1 {
 .projects-list-link {
   padding-bottom: 70px;
 }
+
+/* footer */
+
+.contacts {
+  display: flex;
+  justify-content: space-around;
+}
+
+.contacts-list {
+  text-decoration: none;
+}
+
+.contacts-link > a {
+  color: white;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.contacts-link > *:hover {
+  text-decoration: underline;
+}
