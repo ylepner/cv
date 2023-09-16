@@ -158,11 +158,8 @@ h1 {
 .card {
   display: flex;
   justify-content: center;
-}
-
-.card-img {
-  width: 80%;
-  /* border-radius: 25px; */
+  width: 440px;
+  height: 350px;
 }
 
 .projects-list-link {
@@ -174,11 +171,19 @@ h1 {
   padding-top: 20px;
 }
 
+.projects-title {
+  padding-bottom: 80px;
+}
+
 /* .link-tech-stack {
   text-transform: uppercase;
 } */
 
 /* footer */
+
+.footer-wrapper {
+  border-top: 1px solid white;
+}
 
 .contacts {
   display: flex;
