@@ -157,6 +157,11 @@ a {
   width: 100%;
 }
 
+.promo-title {
+  z-index: 1;
+  position: relative;
+}
+
 .name {
   border-bottom: 4px #4EE1A0 solid;
 }
