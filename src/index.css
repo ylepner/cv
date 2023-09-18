@@ -58,6 +58,19 @@ h1 {
   font-weight: bold;
 }
 
+.end {
+  justify-content: end;
+}
+
+.decoration-spiral {
+  position: absolute;
+}
+
+.decoration-spiral-right {
+  position: absolute;
+  right: 0;
+}
+
 /* layout */
 
 .wrapper {
@@ -115,9 +128,13 @@ h1 {
   padding-bottom: 220px;
 }
 
-.promo-title {
+.promo > img {
+  position: absolute;
+  top: 7%;
+}
+
+.promo-wrapper {
   position: relative;
-  z-index: 1;
 }
 
 .promo-p {
@@ -146,10 +163,20 @@ h1 {
   text-transform: uppercase;
 }
 
+.decoration-circle {
+  width: 129px;
+  height: 129px;
+  border-radius: 50%;
+  border: 1px solid #D8D8D8;
+  position: absolute;
+  bottom: 10%;
+  left: -10%;
+}
+
 /* skills */
 
 .wrapper-skills {
-  border-top: 1px solid;
+  border-top: 1px solid #979797;
 }
 
 .skills-list {
