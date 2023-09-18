@@ -5,6 +5,7 @@
   --font-l: "88px";
   --font-m: "48px";
   --font-s: "24px";
+  --accent-color: "#4EE1A0";
 }
 
 html {
@@ -129,6 +130,25 @@ h1 {
   width: 100%;
 }
 
+.name {
+  border-bottom: 4px #4EE1A0 solid;
+}
+
+.link-to-contact {
+  padding-top: 100px;
+}
+
+.link-to-contact > a {
+  text-decoration: none;
+  color: white;
+  border-bottom: #4EE1A0 1px solid;
+  text-transform: uppercase;
+}
+
+.link-to-contact > a:hover {
+  text-decoration: underline;
+}
+
 /* skills */
 
 .wrapper-skills {
@@ -197,7 +217,7 @@ h1 {
 }
 
 .contact-content > a {
-  color: #4EE1A0;
+  color: var(--accent-color);
 }
 
 .contact-content > a:hover {
@@ -206,6 +226,7 @@ h1 {
 
 .contact-icon {
   padding-right: 30px;
+  font-size: 20px;
 }
 
 .contact-title {
