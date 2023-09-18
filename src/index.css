@@ -6,6 +6,7 @@
   --font-m: "48px";
   --font-s: "24px";
   --accent-color: "#4EE1A0";
+  --line-separator: "#979797";
 }
 
 html {
@@ -145,10 +146,6 @@ h1 {
   text-transform: uppercase;
 }
 
-.link-to-contact > a:hover {
-  text-decoration: underline;
-}
-
 /* skills */
 
 .wrapper-skills {
@@ -202,6 +199,10 @@ h1 {
 
 /* contact */
 
+.contacts {
+  background-color: #242424;
+}
+
 .contact-link {
   text-decoration: none;
   color: white;
@@ -210,6 +211,7 @@ h1 {
 .contacts-list {
   display: grid;
   grid-template-columns: 1fr 1fr;
+  margin: 0;
 }
 
 .contact-content {
@@ -240,13 +242,20 @@ h1 {
 
 /* footer */
 
+.footer {
+  background-color: #242424;
+}
+
 .footer-wrapper {
-  border-top: 1px solid white;
+  border-top: 1px solid #979797;
 }
 
 .contacts-footer {
   display: flex;
   justify-content: space-around;
+  padding-top: 47px;
+  padding-bottom: 92px;
+  margin: 0;
 }
 
 .contacts-list {
