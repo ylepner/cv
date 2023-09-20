@@ -270,7 +270,7 @@ a {
     grid-template-columns: 1fr;
   }
   .photo {
-    width: 375px;
+    width: 100dvw;
     height: 100dvh;
   }
 }
