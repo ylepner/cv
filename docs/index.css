@@ -118,12 +118,6 @@ a {
   .promo-p {
     max-width: 90%!important;
   }
-  .card-img {
-    opacity: 0.3;
-  }
-  .card-info {
-    display: flex!important;
-  }
 }
 
 
