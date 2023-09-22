@@ -11,6 +11,7 @@ Gdańsk, Poland<br>
 **E-mail:** ylepner@gmail.com<br>
 [LinkedIn](https://www.linkedin.com/in/julia-lepner/)<br>
 [GitHub](https://github.com/ylepner)<br>
+[Portfolio](https://ylepner.github.io/cv/)
 
 ### About
 
