@@ -39,6 +39,8 @@ My focus is now on pursuing a fulfilling career in web development, and I look f
 
 * [The Rolling Scopes School](https://rs.school/), Gdańsk, student
 
+    + React 2023Q4 course<br>
+    <i>in progress<i> <br>
     + NodeJS 2023Q2 course<br>
     Jun 2023 - Sep 2023 · 4 mos<br>
     [certificate](https://app.rs.school/certificate/mdyuqu8m)
