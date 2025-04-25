@@ -34,7 +34,7 @@ I contribute to both frontend and backend development, with a strong focus on us
 
 ### Experience
 
-- **Mental Health Zone**, Buenos Aires, Argentina (Remote, Full-time) <br>
+- [Relaxify AI](https://www.relaxify.ai/) (Mental Health Zone), Argentina (Remote, Full-time) <br>
 Full-Stack Developer <br>
 Apr 2024 – Present
       
@@ -48,12 +48,12 @@ Apr 2024 – Present
 
   Technologies: TypeScript · React · Next.js · Material UI · Zustand · Figma · Node.js · Prisma · Zod · PostgreSQL · Vitest · Playwright · Storybook
 
-- **AdmiNext**, Open source project within the main project *Mental Health Zone* <br>
-[AdmiNext](https://github.com/max-konin/AdmiNext) <br>
+- [AdmiNext](https://github.com/max-konin/AdmiNext), Open source project within the main project Relaxify AI <br>
 Full-Stack Developer <br>
-Nov 2024 – Present
-
-    Developing a **Next.js**-based library that integrates **AutoForm** and **TanStack Table**, utilizing **Chakra UI** to provide a clean and user-friendly graphical interface for managing and visualizing **Prisma** and **Drizzle** databases. This library is available as an open-source resource and complements *Mental Health Zone* project.
+Nov 2024 – Apr 2025
+  * Built a reusable library with **Next.js** for visual data management, integrating **AutoForm**, **TanStack Table**, and **Chakra UI**.
+  * Supported integration with **Prisma** and **Drizzle** databases for flexible data handling and customization.
+  * Released as an open-source tool created to support the Relaxify AI project, while being fully adaptable for use in other applications.
 
 ### Technical Trainings and Internship
 
@@ -82,7 +82,7 @@ Sep 2022 – Dec 2022 · 4 mos <br>
 An interactive art history quiz <br>
 Technical Stack: HTML · CSS · Typescript · Tailwind · Angular · RxJS · Angular Material · ngx-translate
 
-- EPAM Systems, Gdańsk, Internship <br>
+- **EPAM Systems**, Gdańsk, Internship <br>
 Intern <br>
 Jul 2022 - Sep 2022 · 3 mos <br>
 Developed and customized ServiceNow tools with JavaScript, improving ITSM workflows for incident and request management. <br>
