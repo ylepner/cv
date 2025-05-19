@@ -12,13 +12,13 @@ E-mail: ylepner@gmail.com<br>
 
 ### About
 
-I’m a Full Stack Developer with 1+ year of professional experience and have been focused on learning web development since 2021. <br> 
-Over the past 4 years, I’ve immersed myself in web development, gaining hands-on experience with HTML, CSS, JavaScript, and TypeScript. <br>
-I’ve explored various frameworks and technologies in web development, building projects with vanilla JS and Angular, and completing courses in Node.js and backend technologies. <br> 
-I successfully passed an internship as a ServiceNow Developer at EPAM Systems in Gdańsk in 2022, where I studied ServiceNow development based on JavaScript. <br>
-In 2023, I focused on React, and in 2024, I transitioned into a Full Stack Developer role. <br>
-I now work remotely as part of a team on a project based in Argentina that helps Spanish-speaking users schedule, book, and attend online sessions with psychologists. <br>
-I contribute to both frontend and backend development, with a strong focus on usability, responsiveness, and code quality.
+I'm a Full Stack Developer with 1+ year of professional experience and have been focused on learning web development since 2021. <br> 
+Over the past 4 years, I've worked with HTML, CSS, JavaScript, and TypeScript. <br> 
+I’ve explored various frameworks and technologies, building projects with vanilla JS and Angular, and completing courses in Node.js and backend technologies. <br> 
+In 2022, I successfully completed an internship at EPAM Systems in Gdańsk, where I studied ServiceNow development based on JavaScript. <br> 
+In 2023, I focused on React, and in 2024, I transitioned into a Full Stack Developer role. <br> 
+Currently, I work remotely in a team on a project based in Argentina that helps Spanish-speaking users schedule and attend online sessions with psychologists. <br> 
+I contribute to both frontend and backend tasks, with strong attention to usability, code quality, and testing. <br> 
 
 ### Technical Skills
 
